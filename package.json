@@ -1,0 +1,14 @@
+{
+  "name": "this.dictionaries",
+  "version": "0.0.0",
+  "description": "Diccionaries",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Diccionaries"
+  ],
+  "author": "suiGn",
+  "license": "MIT"
+}

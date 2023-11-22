@@ -9,6 +9,12 @@
   "keywords": [
     "Diccionaries"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiGn/this.dictionaries.git"
+  },
+  "homepage": "https://www.npmjs.com/package/this.dictionaries",
+  "docs": "https://suiGn.github.io/this.dictionaries",
   "author": "suiGn",
   "license": "MIT",
   "repoType": "NPM Package"

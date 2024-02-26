@@ -17,5 +17,6 @@
   "docs": "https://suiGn.github.io/this.dictionaries",
   "author": "suiGn",
   "license": "MIT",
-  "repoType": "NPM Package"
+  "repoType": "NPM Package",
+  "category": "dataformatter"
 }

@@ -1,6 +1,6 @@
 {
   "name": "this.dictionaries",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Diccionaries",
   "main": "index.js",
   "scripts": {

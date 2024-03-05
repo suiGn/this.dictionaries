@@ -1,10 +1,13 @@
+
 {
   "source": {
-    "include": ["./src", "./index.js"]
+    "include": ["./src", "./index.js", "./README.md"]
   },
   "opts": {
     "destination": "./docs",
-    "template": "../neurons.me/src/assets/better-docs"
+    "template": "../../../../../../Sandbox/dev_tools/assets/better-docs",
+    "readme": "./README.md"
+
   },
   "templates": {
     "cleverLinks": false,
@@ -18,21 +21,33 @@
         }
     },
     "better-docs": {
-        "name": "This.Dictionaries",
+        "name": "this.dictionaries",
         "title": "Docs for this.dictionaries", 
         "css": "style.css",
         "trackingCode": "-",
   "hideGenerator": false,
-        "navLinks": [
-            {
-                "label": "Github",
-                "href": "https://github.com/suiGn/this.dictionaries"
-            },
-            {
-                "label": "App",
-                "href": "https://neurons.me"
-            }
-        ]
-    }
+  "navLinks": [
+    {
+      "label": "All.This",
+      "href": "https://suign.github.io/all.this/"
+  },
+  {
+    "label": "@Source",
+    "href": "https://suign.github.io/"
+},
+      {
+          "label": "Github",
+          "href": "https://github.com/suiGn/this.dictionaries"
+      },
+      {
+          "label": "Cleaker.me",
+          "href": "https://cleaker.me"
+      },
+      {
+        "label": "What is all.this?",
+          "href": "https://www.neurons.me/all-this"
+      }
+  ]
+}
 }
 }

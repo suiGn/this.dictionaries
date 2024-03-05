@@ -1,9 +1,10 @@
 {
   "name": "this.dictionaries",
-  "version": "0.0.2",
+  "version": "0.0.21",
   "description": "Diccionaries",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "keywords": [
@@ -13,8 +14,9 @@
     "type": "git",
     "url": "git+https://github.com/suiGn/this.dictionaries.git"
   },
-  "homepage": "https://www.npmjs.com/package/this.dictionaries",
+  "homepage": "https://neurons.me",
   "docs": "https://suiGn.github.io/this.dictionaries",
+  "type": "module",
   "author": "suiGn",
   "license": "MIT",
   "repoType": "NPM Package",

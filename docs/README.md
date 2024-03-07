@@ -1,4 +1,14 @@
-## This.Dictionaries.
+## THIS.DICTIONARIES
+
+-----------
+
+### [Project Status : Experimental and Under Development, Subject to Major Changes]
+
+The module is in active development, and as such, it is subject to significant changes as we refine our approach and methodologies to best support our goals.
+
+visit: https://neurons.me to learn more.
+
+----------
 
 ## Introduction
 `this.dictionaries` is an exploratory project under development, aiming to structure the way we approach language data by creating a token-based system for linking various language dictionaries to universal tokens. This approach is designed to experiment a new way of a translation methods, focusing instead on a structure where each token represents a core concept or entity consistent across languages. 
@@ -33,13 +43,11 @@ The ultimate goal of `this.dictionaries` is to bridge the gap between raw web da
 
 We welcome contributions, ideas, and feedback from the community to help shape the future of `this.dictionaries`. If you are interested in collaborating or wish to share your insights, please feel free to reach out or contribute to the project.
 
-## License
-
-`this.dictionaries` is an open-source project licensed under the MIT License. We believe in the power of collaborative innovation and invite developers and researchers to join us in this exciting journey.
-
----
-
 By participating in the development of `this.dictionaries`, you are contributing to a future where language processing is more intuitive, intelligent, and interconnected. Join us in building this groundbreaking tool and help shape the future of language analysis in the machine learning domain.
+
+
+
+----------
 
 # About All.This
 
@@ -59,10 +67,18 @@ By participating in the development of `this.dictionaries`, you are contributing
 
 visit: [Neurons.me Glossary](https://suign.github.io/neurons.me/Glossary) 
 
-Learn more at https://neurons.me
+## License & Policies
 
-**Author:** SuiGn
+- **License**: MIT License (see LICENSE for details).
 
-[By neurons.me](https://neurons.me)
+- **Privacy Policy**: Respects user privacy; no collection/storage of personal data.
 
-<img src="https://suign.github.io/neurons.me/neurons_logo.png" alt="neurons.me logo" width="123" height="123" style="width123px; height:123px;">
+- **Terms of Usage**: Use responsibly. No guarantees/warranties provided. [Terms](https://www.neurons.me/terms-of-use) | [Privacy](https://www.neurons.me/privacy-policy)
+
+  **Learn more** at https://neurons.me
+
+  **Author:** SuiGn
+
+  [By neurons.me](https://neurons.me)
+
+  <img src="https://suign.github.io/neurons.me/neurons_logo.png" alt="neurons.me logo" width="123" height="123" style="width123px; height:123px;">
